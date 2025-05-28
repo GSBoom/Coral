@@ -1,0 +1,5 @@
+D:/yuyifei/Desktop/Coral/baselinecode/Auxo/build/CMakeFiles/edit_cache.dir
+D:/yuyifei/Desktop/Coral/baselinecode/Auxo/build/CMakeFiles/rebuild_cache.dir
+D:/yuyifei/Desktop/Coral/baselinecode/Auxo/build/src/CMakeFiles/main.dir
+D:/yuyifei/Desktop/Coral/baselinecode/Auxo/build/src/CMakeFiles/edit_cache.dir
+D:/yuyifei/Desktop/Coral/baselinecode/Auxo/build/src/CMakeFiles/rebuild_cache.dir

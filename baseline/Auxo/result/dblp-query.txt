@@ -1,0 +1,397 @@
+Auxo has inserted 1000000 datas insert time is 431451 useconds
+Auxopro has inserted 1000000 datas insert time is 496517 useconds
+Auxo has inserted 2000000 datas insert time is 1.02215e+06 useconds
+Auxopro has inserted 2000000 datas insert time is 1.19136e+06 useconds
+Auxo has inserted 3000000 datas insert time is 1.81799e+06 useconds
+Auxopro has inserted 3000000 datas insert time is 2.01399e+06 useconds
+Auxo has inserted 4000000 datas insert time is 2.6439e+06 useconds
+Auxopro has inserted 4000000 datas insert time is 2.94741e+06 useconds
+Auxo has inserted 5000000 datas insert time is 3.59017e+06 useconds
+Auxopro has inserted 5000000 datas insert time is 3.91159e+06 useconds
+Auxo has inserted 6000000 datas insert time is 4.55881e+06 useconds
+Auxopro has inserted 6000000 datas insert time is 4.96967e+06 useconds
+Auxo has inserted 7000000 datas insert time is 5.64983e+06 useconds
+Auxopro has inserted 7000000 datas insert time is 6.09956e+06 useconds
+Auxo has inserted 8000000 datas insert time is 6.76211e+06 useconds
+Auxopro has inserted 8000000 datas insert time is 7.21512e+06 useconds
+Auxo has inserted 9000000 datas insert time is 8.03774e+06 useconds
+Auxopro has inserted 9000000 datas insert time is 8.46644e+06 useconds
+Auxo has inserted 10000000 datas insert time is 9.26369e+06 useconds
+Auxopro has inserted 10000000 datas insert time is 9.72673e+06 useconds
+Auxo has inserted 11000000 datas insert time is 1.04455e+07 useconds
+Auxopro has inserted 11000000 datas insert time is 1.11434e+07 useconds
+Auxo has inserted 12000000 datas insert time is 1.16827e+07 useconds
+Auxopro has inserted 12000000 datas insert time is 1.25879e+07 useconds
+Auxo has inserted 13000000 datas insert time is 1.29049e+07 useconds
+Auxopro has inserted 13000000 datas insert time is 1.39945e+07 useconds
+Auxo has inserted 14000000 datas insert time is 1.42677e+07 useconds
+Auxopro has inserted 14000000 datas insert time is 1.54821e+07 useconds
+Auxo has inserted 15000000 datas insert time is 1.55793e+07 useconds
+Auxopro has inserted 15000000 datas insert time is 1.69377e+07 useconds
+Auxo has inserted 16000000 datas insert time is 1.6976e+07 useconds
+Auxopro has inserted 16000000 datas insert time is 1.84434e+07 useconds
+Auxo has inserted 17000000 datas insert time is 1.83453e+07 useconds
+Auxopro has inserted 17000000 datas insert time is 1.99239e+07 useconds
+Auxo has inserted 18000000 datas insert time is 1.98565e+07 useconds
+Auxopro has inserted 18000000 datas insert time is 2.15919e+07 useconds
+Auxo has inserted 19000000 datas insert time is 2.13119e+07 useconds
+Auxopro has inserted 19000000 datas insert time is 2.31123e+07 useconds
+Auxo has inserted 20000000 datas insert time is 2.2724e+07 useconds
+Auxopro has inserted 20000000 datas insert time is 2.45982e+07 useconds
+Auxo has inserted 21000000 datas insert time is 2.41231e+07 useconds
+Auxopro has inserted 21000000 datas insert time is 2.60815e+07 useconds
+Auxo has inserted 22000000 datas insert time is 2.55744e+07 useconds
+Auxopro has inserted 22000000 datas insert time is 2.75402e+07 useconds
+Auxo has inserted 23000000 datas insert time is 2.69837e+07 useconds
+Auxopro has inserted 23000000 datas insert time is 2.908e+07 useconds
+Auxo has inserted 24000000 datas insert time is 2.83635e+07 useconds
+Auxopro has inserted 24000000 datas insert time is 3.05671e+07 useconds
+Auxo has inserted 25000000 datas insert time is 2.97347e+07 useconds
+Auxopro has inserted 25000000 datas insert time is 3.21084e+07 useconds
+Auxo has inserted 26000000 datas insert time is 3.12094e+07 useconds
+Auxopro has inserted 26000000 datas insert time is 3.37079e+07 useconds
+Auxo has inserted 27000000 datas insert time is 3.26011e+07 useconds
+Auxopro has inserted 27000000 datas insert time is 3.5275e+07 useconds
+Auxo has inserted 28000000 datas insert time is 3.40366e+07 useconds
+Auxopro has inserted 28000000 datas insert time is 3.68419e+07 useconds
+Auxo has inserted 29000000 datas insert time is 3.54756e+07 useconds
+Auxopro has inserted 29000000 datas insert time is 3.83895e+07 useconds
+The over all throughput of Auxo: 813697/s
+The over all throughput of proportional Auxo: 752196/s
+total insert 29487745 datas, Auxo use 3.62392e+07 useconds
+total insert 29487745 datas, Auxo-pro use3.92022e+07 useconds
+
+-----------------------------------------------------------------------------------
+
+The consumed memory of fingerprints for Auxo: 106.573 M
+The consumed memory of fingerprints for proportional Auxo: 67.4725 M
+
+-----------------------------------------------------------------------------------
+
+
+
+queryfile now is ..\..\..\TestFile\DBLP\dblpqueryfile20
+****************** AUXO edge Weight Query start *****************
+had query 5899data
+query time 5405usecond
+averge query time 0.916257usecond
+****************** AUXO edge Weight Query end *****************
+
+
+
+****************** AUXOpro edge Weight Query start *****************
+had query 5899data
+query time 13107usecond
+averge query time 2.2219usecond
+****************** AUXOpro edge Weight Query end *****************
+
+
+
+****************** AUXO Node in-flow Query start *****************
+had query 11798data
+query time 1.63762e+06usecond
+averge query time 138.805usecond
+****************** AUXO Node in-flow Query end *****************
+
+
+
+****************** AUXOpro Node in-flow Query start *****************
+had query 11798data
+query time 1.37635e+06usecond
+averge query time 116.659usecond
+****************** AUXOpro Node in-flow Query end *****************
+
+
+
+****************** AUXO Node out-flow Query start *****************
+had query 11798data
+query time 4.41888e+06usecond
+averge query time 374.544usecond
+****************** AUXO Node out-flow Query end *****************
+
+
+
+****************** AUXOpro Node out-flow Query start *****************
+had query 11798data
+query time 3.4376e+06usecond
+averge query time 291.372usecond
+****************** AUXOpro Node out-flow Query end *****************
+
+
+
+****************** AUXO Reachability Query start *****************
+had query 5899data
+query time 848090usecond
+averge query time 143.768usecond
+****************** AUXO Reachabilit Query end *****************
+
+
+
+****************** AUXOpro Reachabilit Query start *****************
+had query 5899data
+query time 757373usecond
+averge query time 128.39usecond
+****************** AUXOpro Reachabilit Query end *****************
+
+
+
+queryfile now is ..\..\..\TestFile\DBLP\dblpqueryfile40
+****************** AUXO edge Weight Query start *****************
+had query 17696data
+query time 15080usecond
+averge query time 0.85217usecond
+****************** AUXO edge Weight Query end *****************
+
+
+
+****************** AUXOpro edge Weight Query start *****************
+had query 17696data
+query time 15133usecond
+averge query time 0.855165usecond
+****************** AUXOpro edge Weight Query end *****************
+
+
+
+****************** AUXO Node in-flow Query start *****************
+had query 35392data
+query time 3.32995e+06usecond
+averge query time 94.0876usecond
+****************** AUXO Node in-flow Query end *****************
+
+
+
+****************** AUXOpro Node in-flow Query start *****************
+had query 35392data
+query time 2.71827e+06usecond
+averge query time 76.8047usecond
+****************** AUXOpro Node in-flow Query end *****************
+
+
+
+****************** AUXO Node out-flow Query start *****************
+had query 35392data
+query time 8.93872e+06usecond
+averge query time 252.563usecond
+****************** AUXO Node out-flow Query end *****************
+
+
+
+****************** AUXOpro Node out-flow Query start *****************
+had query 35392data
+query time 7.08888e+06usecond
+averge query time 200.296usecond
+****************** AUXOpro Node out-flow Query end *****************
+
+
+
+****************** AUXO Reachability Query start *****************
+had query 17696data
+query time 1.76253e+06usecond
+averge query time 99.6006usecond
+****************** AUXO Reachabilit Query end *****************
+
+
+
+****************** AUXOpro Reachabilit Query start *****************
+had query 17696data
+query time 1.53038e+06usecond
+averge query time 86.4817usecond
+****************** AUXOpro Reachabilit Query end *****************
+
+
+
+queryfile now is ..\..\..\TestFile\DBLP\dblpqueryfile60
+****************** AUXO edge Weight Query start *****************
+had query 35390data
+query time 13524usecond
+averge query time 0.382142usecond
+****************** AUXO edge Weight Query end *****************
+
+
+
+****************** AUXOpro edge Weight Query start *****************
+had query 35390data
+query time 25696usecond
+averge query time 0.726081usecond
+****************** AUXOpro edge Weight Query end *****************
+
+
+
+****************** AUXO Node in-flow Query start *****************
+had query 70780data
+query time 4.88e+06usecond
+averge query time 68.9461usecond
+****************** AUXO Node in-flow Query end *****************
+
+
+
+****************** AUXOpro Node in-flow Query start *****************
+had query 70780data
+query time 4.19104e+06usecond
+averge query time 59.2123usecond
+****************** AUXOpro Node in-flow Query end *****************
+
+
+
+****************** AUXO Node out-flow Query start *****************
+had query 70780data
+query time 1.25489e+07usecond
+averge query time 177.294usecond
+****************** AUXO Node out-flow Query end *****************
+
+
+
+****************** AUXOpro Node out-flow Query start *****************
+had query 70780data
+query time 9.89063e+06usecond
+averge query time 139.738usecond
+****************** AUXOpro Node out-flow Query end *****************
+
+
+
+****************** AUXO Reachability Query start *****************
+had query 35390data
+query time 2.62383e+06usecond
+averge query time 74.1403usecond
+****************** AUXO Reachabilit Query end *****************
+
+
+
+****************** AUXOpro Reachabilit Query start *****************
+had query 35390data
+query time 2.20146e+06usecond
+averge query time 62.2056usecond
+****************** AUXOpro Reachabilit Query end *****************
+
+
+
+queryfile now is ..\..\..\TestFile\DBLP\dblpqueryfile80
+****************** AUXO edge Weight Query start *****************
+had query 58982data
+query time 50057usecond
+averge query time 0.848683usecond
+****************** AUXO edge Weight Query end *****************
+
+
+
+****************** AUXOpro edge Weight Query start *****************
+had query 58982data
+query time 33295usecond
+averge query time 0.564494usecond
+****************** AUXOpro edge Weight Query end *****************
+
+
+
+****************** AUXO Node in-flow Query start *****************
+had query 117964data
+query time 6.5686e+06usecond
+averge query time 55.6831usecond
+****************** AUXO Node in-flow Query end *****************
+
+
+
+****************** AUXOpro Node in-flow Query start *****************
+had query 117964data
+query time 5.51134e+06usecond
+averge query time 46.7205usecond
+****************** AUXOpro Node in-flow Query end *****************
+
+
+
+****************** AUXO Node out-flow Query start *****************
+had query 117964data
+query time 1.78008e+07usecond
+averge query time 150.9usecond
+****************** AUXO Node out-flow Query end *****************
+
+
+
+****************** AUXOpro Node out-flow Query start *****************
+had query 117964data
+query time 1.429e+07usecond
+averge query time 121.139usecond
+****************** AUXOpro Node out-flow Query end *****************
+
+
+
+****************** AUXO Reachability Query start *****************
+had query 58982data
+query time 3.43742e+06usecond
+averge query time 58.2791usecond
+****************** AUXO Reachabilit Query end *****************
+
+
+
+****************** AUXOpro Reachabilit Query start *****************
+had query 58982data
+query time 3.06421e+06usecond
+averge query time 51.9516usecond
+****************** AUXOpro Reachabilit Query end *****************
+
+
+
+queryfile now is ..\..\..\TestFile\DBLP\dblpqueryfile100
+****************** AUXO edge Weight Query start *****************
+had query 88472data
+query time 48428usecond
+averge query time 0.547382usecond
+****************** AUXO edge Weight Query end *****************
+
+
+
+****************** AUXOpro edge Weight Query start *****************
+had query 88472data
+query time 37395usecond
+averge query time 0.422676usecond
+****************** AUXOpro edge Weight Query end *****************
+
+
+
+****************** AUXO Node in-flow Query start *****************
+had query 176944data
+query time 8.26713e+06usecond
+averge query time 46.7217usecond
+****************** AUXO Node in-flow Query end *****************
+
+
+
+****************** AUXOpro Node in-flow Query start *****************
+had query 176944data
+query time 6.89656e+06usecond
+averge query time 38.976usecond
+****************** AUXOpro Node in-flow Query end *****************
+
+
+
+****************** AUXO Node out-flow Query start *****************
+had query 176944data
+query time 2.20375e+07usecond
+averge query time 124.545usecond
+****************** AUXO Node out-flow Query end *****************
+
+
+
+****************** AUXOpro Node out-flow Query start *****************
+had query 176944data
+query time 1.74924e+07usecond
+averge query time 118.8584usecond
+****************** AUXOpro Node out-flow Query end *****************
+
+
+
+****************** AUXO Reachability Query start *****************
+had query 88472data
+query time 4.39445e+06usecond
+averge query time 49.6705usecond
+****************** AUXO Reachabilit Query end *****************
+
+
+
+****************** AUXOpro Reachabilit Query start *****************
+had query 88472data
+query time 3.79817e+06usecond
+averge query time 42.9307usecond
+****************** AUXOpro Reachabilit Query end *****************
+
+
+

@@ -1,0 +1,126 @@
+Auxo has inserted 1000000 datas insert time is 313424 useconds
+Auxopro has inserted 1000000 datas insert time is 375832 useconds
+Auxo has inserted 2000000 datas insert time is 878977 useconds
+Auxopro has inserted 2000000 datas insert time is 835718 useconds
+Auxo has inserted 3000000 datas insert time is 1.38534e+06 useconds
+Auxopro has inserted 3000000 datas insert time is 1.41692e+06 useconds
+Auxo has inserted 4000000 datas insert time is 1.88959e+06 useconds
+Auxopro has inserted 4000000 datas insert time is 2.09378e+06 useconds
+Auxo has inserted 5000000 datas insert time is 2.51004e+06 useconds
+Auxopro has inserted 5000000 datas insert time is 2.77066e+06 useconds
+Auxo has inserted 6000000 datas insert time is 3.23379e+06 useconds
+Auxopro has inserted 6000000 datas insert time is 3.64225e+06 useconds
+Auxo has inserted 7000000 datas insert time is 3.96451e+06 useconds
+Auxopro has inserted 7000000 datas insert time is 4.55595e+06 useconds
+Auxo has inserted 8000000 datas insert time is 4.68158e+06 useconds
+Auxopro has inserted 8000000 datas insert time is 5.59228e+06 useconds
+Auxo has inserted 9000000 datas insert time is 5.61088e+06 useconds
+Auxopro has inserted 9000000 datas insert time is 6.71383e+06 useconds
+Auxo has inserted 10000000 datas insert time is 6.64289e+06 useconds
+Auxopro has inserted 10000000 datas insert time is 7.85983e+06 useconds
+Auxo has inserted 11000000 datas insert time is 7.45582e+06 useconds
+Auxopro has inserted 11000000 datas insert time is 9.18883e+06 useconds
+Auxo has inserted 12000000 datas insert time is 8.5616e+06 useconds
+Auxopro has inserted 12000000 datas insert time is 1.04013e+07 useconds
+Auxo has inserted 13000000 datas insert time is 9.69106e+06 useconds
+Auxopro has inserted 13000000 datas insert time is 1.17457e+07 useconds
+Auxo has inserted 14000000 datas insert time is 1.08618e+07 useconds
+Auxopro has inserted 14000000 datas insert time is 1.31844e+07 useconds
+Auxo has inserted 15000000 datas insert time is 1.21268e+07 useconds
+Auxopro has inserted 15000000 datas insert time is 1.4453e+07 useconds
+Auxo has inserted 16000000 datas insert time is 1.33333e+07 useconds
+Auxopro has inserted 16000000 datas insert time is 1.57564e+07 useconds
+Auxo has inserted 17000000 datas insert time is 1.45427e+07 useconds
+Auxopro has inserted 17000000 datas insert time is 1.70657e+07 useconds
+Auxo has inserted 18000000 datas insert time is 1.56056e+07 useconds
+Auxopro has inserted 18000000 datas insert time is 1.8479e+07 useconds
+Auxo has inserted 19000000 datas insert time is 1.68115e+07 useconds
+Auxopro has inserted 19000000 datas insert time is 1.98718e+07 useconds
+Auxo has inserted 20000000 datas insert time is 1.80668e+07 useconds
+Auxopro has inserted 20000000 datas insert time is 2.14022e+07 useconds
+Auxo has inserted 21000000 datas insert time is 1.93344e+07 useconds
+Auxopro has inserted 21000000 datas insert time is 2.30159e+07 useconds
+Auxo has inserted 22000000 datas insert time is 2.07833e+07 useconds
+Auxopro has inserted 22000000 datas insert time is 2.45836e+07 useconds
+Auxo has inserted 23000000 datas insert time is 2.20234e+07 useconds
+Auxopro has inserted 23000000 datas insert time is 2.64328e+07 useconds
+Auxo has inserted 24000000 datas insert time is 2.33582e+07 useconds
+Auxopro has inserted 24000000 datas insert time is 2.82964e+07 useconds
+1000
+migration times: 70 migrationtime: 176473
+The over all throughput of Auxo: 1.00451e+06/s
+The over all throughput of proportional Auxo: 836127/s
+total insert 24981164 datas, Auxo use 2.4869e+07 useconds
+total insert 24981164 datas, Auxo-pro use2.98772e+07 useconds
+2000
+migration times: 26 migrationtime: 262673
+The over all throughput of Auxo: 1.1622e+06/s
+The over all throughput of proportional Auxo: 929538/s
+total insert 24981164 datas, Auxo use 2.14947e+07 useconds
+total insert 24981164 datas, Auxo-pro use2.68748e+07 useconds
+3000
+migration times: 23 migrationtime: 504598
+The over all throughput of Auxo: 1.2874e+06/s
+The over all throughput of proportional Auxo: 1.06482e+06/s
+total insert 24981164 datas, Auxo use 1.94044e+07 useconds
+total insert 24981164 datas, Auxo-pro use2.34604e+07 useconds
+4000
+migration times: 15 migrationtime: 505338
+The over all throughput of Auxo: 1.37672e+06/s
+The over all throughput of proportional Auxo: 1.15935e+06/s
+total insert 24981164 datas, Auxo use 1.81455e+07 useconds
+total insert 24981164 datas, Auxo-pro use2.15475e+07 useconds\
+5000
+migration times: 7 migrationtime: 423679 60525
+The over all throughput of Auxo: 1.49062e+06/s
+The over all throughput of proportional Auxo: 1.20389e+06/s
+total insert 24981164 datas, Auxo use 1.67589e+07 useconds
+total insert 24981164 datas, Auxo-pro use2.07504e+07 useconds
+5500
+migration times: 7 migrationtime: 487788   69684
+The over all throughput of Auxo: 1.45055e+06/s
+The over all throughput of proportional Auxo: 1.2122e+06/s
+total insert 24981164 datas, Auxo use 1.72219e+07 useconds
+total insert 24981164 datas, Auxo-pro use2.0608e+07 useconds
+6000
+migration times: 7 migrationtime: 565902 80850
+The over all throughput of Auxo: 1.49357e+06/s
+The over all throughput of proportional Auxo: 1.27816e+06/s
+total insert 24981164 datas, Auxo use 1.67259e+07 useconds
+total insert 24981164 datas, Auxo-pro use1.95446e+07 useconds
+6500
+migration times: 7 migrationtime: 697654 99678
+The over all throughput of Auxo: 1.55429e+06/s
+The over all throughput of proportional Auxo: 1.21393e+06/s
+total insert 24981164 datas, Auxo use 1.60724e+07 useconds
+total insert 24981164 datas, Auxo-pro use2.05787e+07 useconds
+7000
+migration times: 7 migrationtime: 767705 109678
+The over all throughput of Auxo: 1.50944e+06/s
+The over all throughput of proportional Auxo: 1.17286e+06/s
+total insert 24981164 datas, Auxo use 1.655e+07 useconds
+total insert 24981164 datas, Auxo-pro use2.12994e+07 useconds
+7500
+migration times: 7 migrationtime: 986322 140890
+The over all throughput of Auxo: 1.47355e+06/s
+The over all throughput of proportional Auxo: 1.22955e+06/s
+total insert 24981164 datas, Auxo use 1.69531e+07 useconds
+total insert 24981164 datas, Auxo-pro use2.03173e+07 useconds
+8000
+migration times: 7 migrationtime: 1.06867e+06 152667
+The over all throughput of Auxo: 1.5014e+06/s
+The over all throughput of proportional Auxo: 1.28941e+06/s
+total insert 24981164 datas, Auxo use 1.66385e+07 useconds
+total insert 24981164 datas, Auxo-pro use1.93741e+07 useconds
+8500
+migration times: 7 migrationtime: 1.09215e+06 156021
+The over all throughput of Auxo: 1.53901e+06/s
+The over all throughput of proportional Auxo: 1.34774e+06/s
+total insert 24981164 datas, Auxo use 1.62319e+07 useconds
+total insert 24981164 datas, Auxo-pro use1.85356e+07 useconds
+9000
+migration times: 3 migrationtime: 514567 171522
+The over all throughput of Auxo: 1.18554e+06/s
+The over all throughput of proportional Auxo: 988096/s
+total insert 24981164 datas, Auxo use 2.10716e+07 useconds
+total insert 24981164 datas, Auxo-pro use2.52821e+07 useconds

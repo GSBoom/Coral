@@ -1,0 +1,9 @@
+The over all throughput of Auxo: 1.85462e+06/s
+The over all throughput of proportional Auxo: 1.66556e+06/s
+The over all throughput of GSS_Chain: 835002/s
+
+-----------------------------------------------------------------------------------
+
+The consumed memory of fingerprints for Auxo: 1.83781 M
+The consumed memory of fingerprints for proportional Auxo: 1.10362 M
+The consumed memory of fingerprints for GSS_Chain: 0.953674 M

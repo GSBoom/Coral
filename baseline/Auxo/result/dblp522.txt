@@ -1,0 +1,123 @@
+Auxo has inserted 1000000 datas insert time is 465916 useconds
+Auxopro has inserted 1000000 datas insert time is 587419 useconds
+Auxo has inserted 2000000 datas insert time is 1.04362e+06 useconds
+Auxopro has inserted 2000000 datas insert time is 1.14064e+06 useconds
+Auxo has inserted 3000000 datas insert time is 1.74857e+06 useconds
+Auxopro has inserted 3000000 datas insert time is 1.9025e+06 useconds
+Auxo has inserted 4000000 datas insert time is 2.54635e+06 useconds
+Auxopro has inserted 4000000 datas insert time is 2.64102e+06 useconds
+Auxo has inserted 5000000 datas insert time is 3.32485e+06 useconds
+Auxopro has inserted 5000000 datas insert time is 3.45791e+06 useconds
+Auxo has inserted 6000000 datas insert time is 4.07581e+06 useconds
+Auxopro has inserted 6000000 datas insert time is 4.22246e+06 useconds
+Auxo has inserted 7000000 datas insert time is 5.02957e+06 useconds
+Auxopro has inserted 7000000 datas insert time is 5.07672e+06 useconds
+Auxo has inserted 8000000 datas insert time is 5.85129e+06 useconds
+Auxopro has inserted 8000000 datas insert time is 5.91973e+06 useconds
+Auxo has inserted 9000000 datas insert time is 6.79348e+06 useconds
+Auxopro has inserted 9000000 datas insert time is 6.96614e+06 useconds
+Auxo has inserted 10000000 datas insert time is 7.66783e+06 useconds
+Auxopro has inserted 10000000 datas insert time is 8.03499e+06 useconds
+Auxo has inserted 11000000 datas insert time is 8.49635e+06 useconds
+Auxopro has inserted 11000000 datas insert time is 9.15631e+06 useconds
+Auxo has inserted 12000000 datas insert time is 9.66466e+06 useconds
+Auxopro has inserted 12000000 datas insert time is 1.05116e+07 useconds
+Auxo has inserted 13000000 datas insert time is 1.09351e+07 useconds
+Auxopro has inserted 13000000 datas insert time is 1.18282e+07 useconds
+Auxo has inserted 14000000 datas insert time is 1.21096e+07 useconds
+Auxopro has inserted 14000000 datas insert time is 1.30503e+07 useconds
+Auxo has inserted 15000000 datas insert time is 1.32263e+07 useconds
+Auxopro has inserted 15000000 datas insert time is 1.43989e+07 useconds
+Auxo has inserted 16000000 datas insert time is 1.44782e+07 useconds
+Auxopro has inserted 16000000 datas insert time is 1.56309e+07 useconds
+Auxo has inserted 17000000 datas insert time is 1.56341e+07 useconds
+Auxopro has inserted 17000000 datas insert time is 1.67297e+07 useconds
+Auxo has inserted 18000000 datas insert time is 1.66861e+07 useconds
+Auxopro has inserted 18000000 datas insert time is 1.81111e+07 useconds
+Auxo has inserted 19000000 datas insert time is 1.78043e+07 useconds
+Auxopro has inserted 19000000 datas insert time is 1.95051e+07 useconds
+Auxo has inserted 20000000 datas insert time is 1.89144e+07 useconds
+Auxopro has inserted 20000000 datas insert time is 2.09597e+07 useconds
+Auxo has inserted 21000000 datas insert time is 1.9907e+07 useconds
+Auxopro has inserted 21000000 datas insert time is 2.24111e+07 useconds
+Auxo has inserted 22000000 datas insert time is 2.08464e+07 useconds
+Auxopro has inserted 22000000 datas insert time is 2.37903e+07 useconds
+Auxo has inserted 23000000 datas insert time is 2.1902e+07 useconds
+Auxopro has inserted 23000000 datas insert time is 2.52941e+07 useconds
+Auxo has inserted 24000000 datas insert time is 2.2865e+07 useconds
+Auxopro has inserted 24000000 datas insert time is 2.65809e+07 useconds
+Auxo has inserted 25000000 datas insert time is 2.39668e+07 useconds
+Auxopro has inserted 25000000 datas insert time is 2.76529e+07 useconds
+Auxo has inserted 26000000 datas insert time is 2.49389e+07 useconds
+Auxopro has inserted 26000000 datas insert time is 2.91542e+07 useconds
+Auxo has inserted 27000000 datas insert time is 2.5842e+07 useconds
+Auxopro has inserted 27000000 datas insert time is 3.04386e+07 useconds
+Auxo has inserted 28000000 datas insert time is 2.70595e+07 useconds
+Auxopro has inserted 28000000 datas insert time is 3.16629e+07 useconds
+Auxo has inserted 29000000 datas insert time is 2.82302e+07 useconds
+Auxopro has inserted 29000000 datas insert time is 3.28013e+07 useconds
+queryfile now is ..\..\..\TestFile\DBLP\dblpqueryfilecdf
+****************** AUXO edge Weight Query start *****************
+had query 10004data
+query time 6736usecond
+averge query time 0.673331usecond
+****************** AUXO edge Weight Query end *****************
+
+
+
+****************** AUXOpro edge Weight Query start *****************
+had query 10004data
+query time 8721usecond
+averge query time 0.871751usecond
+****************** AUXOpro edge Weight Query end *****************
+
+
+
+****************** AUXO Node in-flow Query start *****************
+had query 20008data
+query time 2.22041e+06usecond
+averge query time 110.976usecond
+****************** AUXO Node in-flow Query end *****************
+
+
+
+****************** AUXOpro Node in-flow Query start *****************
+had query 20008data
+query time 2.20555e+06usecond
+averge query time 110.233usecond
+****************** AUXOpro Node in-flow Query end *****************
+
+
+
+****************** AUXO Node out-flow Query start *****************
+had query 20008data
+query time 1.02019e+07usecond
+averge query time 509.889usecond
+****************** AUXO Node out-flow Query end *****************
+
+
+
+****************** AUXOpro Node out-flow Query start *****************
+had query 20008data
+query time 1.0404e+07usecond
+averge query time 519.99usecond
+****************** AUXOpro Node out-flow Query end *****************
+
+
+
+****************** AUXO Reachability Query start *****************
+had query 10004data
+query time 1.20263e+06usecond
+averge query time 120.215usecond
+****************** AUXO Reachabilit Query end *****************
+
+
+
+****************** AUXOpro Reachabilit Query start *****************
+had query 10004data
+query time 1.15757e+06usecond
+averge query time 115.711usecond
+****************** AUXOpro Reachabilit Query end *****************
+
+
+

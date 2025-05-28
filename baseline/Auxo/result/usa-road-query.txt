@@ -1,0 +1,98 @@
+Auxo has inserted 1000000 datas insert time is 451885 useconds
+Auxopro has inserted 1000000 datas insert time is 582037 useconds
+Auxo has inserted 2000000 datas insert time is 1.14467e+06 useconds
+Auxopro has inserted 2000000 datas insert time is 1.23705e+06 useconds
+Auxo has inserted 3000000 datas insert time is 2.26642e+06 useconds
+Auxopro has inserted 3000000 datas insert time is 2.37704e+06 useconds
+Auxo has inserted 4000000 datas insert time is 3.51931e+06 useconds
+Auxopro has inserted 4000000 datas insert time is 3.7205e+06 useconds
+Auxo has inserted 5000000 datas insert time is 4.80073e+06 useconds
+Auxopro has inserted 5000000 datas insert time is 5.21504e+06 useconds
+Auxo has inserted 6000000 datas insert time is 6.40721e+06 useconds
+Auxopro has inserted 6000000 datas insert time is 6.81825e+06 useconds
+Auxo has inserted 7000000 datas insert time is 7.85414e+06 useconds
+Auxopro has inserted 7000000 datas insert time is 8.60372e+06 useconds
+Auxo has inserted 8000000 datas insert time is 9.52705e+06 useconds
+Auxopro has inserted 8000000 datas insert time is 1.04727e+07 useconds
+Auxo has inserted 9000000 datas insert time is 1.13407e+07 useconds
+Auxopro has inserted 9000000 datas insert time is 1.2387e+07 useconds
+Auxo has inserted 10000000 datas insert time is 1.31118e+07 useconds
+Auxopro has inserted 10000000 datas insert time is 1.42812e+07 useconds
+Auxo has inserted 11000000 datas insert time is 1.51284e+07 useconds
+Auxopro has inserted 11000000 datas insert time is 1.6323e+07 useconds
+Auxo has inserted 12000000 datas insert time is 1.71393e+07 useconds
+Auxopro has inserted 12000000 datas insert time is 1.83734e+07 useconds
+Auxo has inserted 13000000 datas insert time is 1.90121e+07 useconds
+Auxopro has inserted 13000000 datas insert time is 2.05165e+07 useconds
+Auxo has inserted 14000000 datas insert time is 2.10024e+07 useconds
+Auxopro has inserted 14000000 datas insert time is 2.24151e+07 useconds
+Auxo has inserted 15000000 datas insert time is 2.31074e+07 useconds
+Auxopro has inserted 15000000 datas insert time is 2.42948e+07 useconds
+Auxo has inserted 16000000 datas insert time is 2.49271e+07 useconds
+Auxopro has inserted 16000000 datas insert time is 2.68477e+07 useconds
+Auxo has inserted 17000000 datas insert time is 2.72107e+07 useconds
+Auxopro has inserted 17000000 datas insert time is 2.89895e+07 useconds
+Auxo has inserted 18000000 datas insert time is 2.94817e+07 useconds
+Auxopro has inserted 18000000 datas insert time is 3.11625e+07 useconds
+Auxo has inserted 19000000 datas insert time is 3.14968e+07 useconds
+Auxopro has inserted 19000000 datas insert time is 3.3378e+07 useconds
+Auxo has inserted 20000000 datas insert time is 3.37329e+07 useconds
+Auxopro has inserted 20000000 datas insert time is 3.54926e+07 useconds
+Auxo has inserted 21000000 datas insert time is 3.59555e+07 useconds
+Auxopro has inserted 21000000 datas insert time is 3.77766e+07 useconds
+Auxo has inserted 22000000 datas insert time is 3.81813e+07 useconds
+Auxopro has inserted 22000000 datas insert time is 3.99172e+07 useconds
+Auxo has inserted 23000000 datas insert time is 4.05794e+07 useconds
+Auxopro has inserted 23000000 datas insert time is 4.21092e+07 useconds
+Auxo has inserted 24000000 datas insert time is 4.28242e+07 useconds
+Auxopro has inserted 24000000 datas insert time is 4.47424e+07 useconds
+Auxo has inserted 25000000 datas insert time is 4.5132e+07 useconds
+Auxopro has inserted 25000000 datas insert time is 4.73242e+07 useconds
+Auxo has inserted 26000000 datas insert time is 4.74109e+07 useconds
+Auxopro has inserted 26000000 datas insert time is 4.98033e+07 useconds
+Auxo has inserted 27000000 datas insert time is 4.99439e+07 useconds
+Auxopro has inserted 27000000 datas insert time is 5.22498e+07 useconds
+Auxo has inserted 28000000 datas insert time is 5.23679e+07 useconds
+Auxopro has inserted 28000000 datas insert time is 5.49875e+07 useconds
+The over all throughput of Auxo: 530263/s
+The over all throughput of proportional Auxo: 504206/s
+total insert 28854313 datas, Auxo use 5.44151e+07 useconds
+total insert 28854313 datas, Auxo-pro use5.72272e+07 useconds
+
+-----------------------------------------------------------------------------------
+
+The consumed memory of fingerprints for Auxo: 419.14 M
+The consumed memory of fingerprints for proportional Auxo: 220.776 M
+
+-----------------------------------------------------------------------------------
+
+
+
+
+-----------------------------------------------------------------------------------
+
+The consumed memory of weight for Auxo: 120.163 M
+The consumed memory of weight for proportional Auxo: 61.0352 M
+
+-----------------------------------------------------------------------------------
+
+
+
+
+-----------------------------------------------------------------------------------
+
+The consumed memory of index for Auxo: 30.0412 M
+The consumed memory of index for proportional Auxo: 15.259 M
+
+-----------------------------------------------------------------------------------
+
+
+
+
+-----------------------------------------------------------------------------------
+
+The consumed memory Auxo: 569.344 M
+The consumed memory proportional Auxo: 297.07 M
+
+-----------------------------------------------------------------------------------
+

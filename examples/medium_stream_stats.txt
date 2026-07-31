@@ -1,0 +1,12 @@
+fixture: coral-review-smoke-v1
+records: 100000
+distinct_edges: 80000
+duplicate_occurrences: 20000
+sources: 4096
+destination_domain: 16384
+base_distribution: zipf
+alpha: 0.600000000
+seed: 20260726
+weight_per_occurrence: 1
+query_nodes: 4096
+expected_outflow_checksum: 100000

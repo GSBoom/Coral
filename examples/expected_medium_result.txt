@@ -1,0 +1,5 @@
+structure: Coral
+width: 512
+edges_loaded: 100000
+queries: 4096
+checksum: 100000

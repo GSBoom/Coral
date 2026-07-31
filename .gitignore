@@ -1,0 +1,16 @@
+# Build products
+*.exe
+*.o
+experiments/test_coral_cache
+
+# Local datasets and generated results
+data/
+results/
+/medium_result.txt
+*.ready
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
